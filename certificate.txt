@@ -1,0 +1,2 @@
+Just finished the course “Learning JDBC” by Frank Moley! Check it out:
+https://www.linkedin.com/learning/certificates/f92632247717b134999c50be2d62e22386a8205cb87c2c29b59cbdb2b48ea45b
